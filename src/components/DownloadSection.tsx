@@ -66,7 +66,7 @@ function DownloadSection() {
                 className="flex flex-col sm:flex-row items-center justify-center gap-4"
               >
                 <motion.a
-                  href="https://github.com/fadingsanctum/viper-player/releases/download/v1.0.0/Viper.Player.Setup.1.0.0.exe"
+                  href="https://github.com/fadingsanctum/viper-player/releases/download/v1.0.1/Viper.Player.Setup.1.0.1.exe"
                   className="btn-primary text-lg px-8 py-4 group"
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}

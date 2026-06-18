@@ -63,7 +63,7 @@ function HeroSection() {
 
         {/* CTA Buttons */}
         <motion.div variants={itemVariants} className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
-          <a href="https://github.com/fadingsanctum/viper-player/releases/download/v1.0.0/Viper.Player.Setup.1.0.0.exe" className="btn-primary group">
+          <a href="https://github.com/fadingsanctum/viper-player/releases/download/v1.0.1/Viper.Player.Setup.1.0.1.exe" className="btn-primary group">
             <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M21 15V19a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V15" />
               <polyline points="7 10 12 15 17 10" />
